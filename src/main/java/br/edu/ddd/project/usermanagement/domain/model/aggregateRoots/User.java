@@ -1,4 +1,4 @@
-package br.edu.ddd.project.usermanagement.domain.model.agregateRoots;
+package br.edu.ddd.project.usermanagement.domain.model.aggregateRoots;
 
 import br.edu.ddd.project.usermanagement.domain.model.enums.Role;
 import br.edu.ddd.project.usermanagement.domain.model.enums.UserStatus;

@@ -1,4 +1,4 @@
-package br.edu.ddd.project.productcatalog.domain.model.agregateRoots;
+package br.edu.ddd.project.productcatalog.domain.model.aggregateRoots;
 
 
 import br.edu.ddd.project.ordermanagement.domain.model.valueobject.Money;
