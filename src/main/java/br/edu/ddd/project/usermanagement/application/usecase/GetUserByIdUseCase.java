@@ -3,7 +3,7 @@ package br.edu.ddd.project.usermanagement.application.usecase;
 import br.edu.ddd.project.usermanagement.application.dto.response.UserResponse;
 import br.edu.ddd.project.usermanagement.application.exception.UserNotFoundException;
 import br.edu.ddd.project.usermanagement.application.port.UserRepository;
-import br.edu.ddd.project.usermanagement.domain.model.agregateRoots.User;
+import br.edu.ddd.project.usermanagement.domain.model.aggregateRoots.User;
 import br.edu.ddd.project.usermanagement.domain.model.enums.Role;
 import br.edu.ddd.project.usermanagement.domain.model.valueobject.UserId;
 import org.springframework.stereotype.Component;

@@ -1,6 +1,6 @@
 package br.edu.ddd.project.usermanagement.application.port;
 
-import br.edu.ddd.project.usermanagement.domain.model.agregateRoots.User;
+import br.edu.ddd.project.usermanagement.domain.model.aggregateRoots.User;
 import br.edu.ddd.project.usermanagement.domain.model.valueobject.Email;
 import br.edu.ddd.project.usermanagement.domain.model.valueobject.UserId;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package br.edu.ddd.project.ordermanagement.domain.model.agregateRoots;
+package br.edu.ddd.project.ordermanagement.domain.model.aggregateRoots;
 
 import br.edu.ddd.project.ordermanagement.domain.model.entities.OrderItem;
 import br.edu.ddd.project.ordermanagement.domain.model.enums.OrderStatus;
